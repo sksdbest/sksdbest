@@ -11,11 +11,11 @@
 
 - 🤝 I’m looking for help with **Hacking Tools**
 
-- 👨‍💻 All of my projects are available at [www.shubhamkumar.science](www.shubhamkumar.science)
+- 👨‍💻 All of my projects are available at [www.goodhacker.in](www.goodhacker.in)
 
 - 💬 Ask me about **Hacking, Security, Vulnerability Assessment**
 
-- 📫 How to reach me **email@shubhamkumar.science**
+- 📫 How to reach me **Shubham@goodhacker.in**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
