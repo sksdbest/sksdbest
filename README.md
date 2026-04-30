@@ -1,4 +1,3 @@
-```markdown
 <div align="center">
 
 # 🛡️ Shubham Kumar Sahu
@@ -329,4 +328,4 @@ If you find my projects, research, or content valuable:
 ![Visitor Count](https://profile-counter.glitch.me/sksdbest/count.svg)
 
 </div>
-```
+
