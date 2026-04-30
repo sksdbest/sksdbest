@@ -187,18 +187,131 @@ Conducting advanced research in cybersecurity, focusing on:
 
 ---
 
-## 📊 GitHub Statistics
+
+## 🎓 Education
+
+```
+🎓 Ph.D. in Computer Science & Engineering (Cyber Security)
+   IIT Bhilai | 2023 - 2028 (Pursuing)
+
+🎓 M.Tech in Cyber Forensics & Information Security (Honors)
+   CSVTU, Bhilai | 2018 - 2021
+
+🎓 Diploma in Cyber Law
+   Government Law College, Mumbai | 2018
+
+🎓 B.E. in Information Technology
+   CSVTU, Bhilai | 2014 - 2018
+```
+
+---
+
+## 🌟 Featured Projects
+
+### 🔐 [CEH Practical Notes](https://github.com/sksdbest/CEH-Practical-Notes-)
+Comprehensive guide and notes for Certified Ethical Hacker (Practical) certification
+- Hands-on penetration testing scenarios
+- Tool usage guides and techniques
+- Real-world security assessment methodologies
+
+---
+
+## 🌐 Connect With Me
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sksdbest&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00ff00&icon_color=00ff00&text_color=ffffff)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sksdbest&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00ff00&text_color=ffffff)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sksdbest&theme=black-ice&hide_border=true&background=0D1117&stroke=00ff00&ring=00ff00&fire=00ff00&currStreakLabel=00ff00)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sksdbest)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sksdbest)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/sksdbest)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sksdbest)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@sksdbest)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/learnwithsahuji)
+[![Website](https://img.shields.io/badge/Website-00C853?style=for-the-badge&logo=google-chrome&logoColor=white)](http://www.goodhacker.in)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shubham@goodhacker.in)
 
 </div>
 
 ---
 
-## 🎓 Education
+## 💡 Areas of Expertise
+
+<div align="center">
+
+| Security Domain | Expertise Level | Key Skills |
+|----------------|-----------------|------------|
+| 🎯 Penetration Testing | ⭐⭐⭐⭐⭐ | Web, Mobile, Network, API Testing |
+| 🔍 Vulnerability Assessment | ⭐⭐⭐⭐⭐ | VAPT, Threat Modeling, Risk Analysis |
+| ⚙️ DevSecOps | ⭐⭐⭐⭐ | CI/CD Security, Container Security |
+| 📋 GRC & Compliance | ⭐⭐⭐⭐⭐ | ISO 27001, SOC 1/2, HIPAA, GDPR |
+| ☁️ Cloud Security | ⭐⭐⭐⭐ | AWS, Azure, GCP Security |
+| 🚨 Incident Response | ⭐⭐⭐⭐ | SIEM, Forensics, Threat Hunting |
+
+</div>
+
+---
+
+## 🏅 Leadership & Recognition
+
+- 🏆 **Winner** - Model Competition, INSPIRE DST Camp (2013)
+- 🎖️ **Internship Camp** - INSPIRE DST (2014)
+- 🥈 **Semi-finalist** - IT Olympiad (2015)
+- 📜 **NSS B & C Certificate Holder** (2015-2018)
+- 👨‍🏫 **Founder** - Inspire Academy (200+ students, 2015-2017)
+
+---
+
+## 📈 Professional Impact
+
+<div align="center">
+
+```mermaid
+graph LR
+    A[Security Assessments] -->|200+ Vulnerabilities| B[Risk Mitigation]
+    B -->|20% Improvement| C[Compliance Success]
+    C -->|15+ Clients| D[Global Impact]
+    D -->|30% Efficiency| E[Optimized Security]
+```
+
+</div>
+
+---
+
+## 💬 Security Philosophy
+
+> *"Security is not a product, but a process. It's about creating layers of defense, staying ahead of threats, and fostering a culture where security is everyone's responsibility."*
+
+---
+
+## 🤝 Open to Collaboration
+
+I'm actively seeking collaboration opportunities in:
+- 🔧 **Security Tool Development** - Open-source security tools and frameworks
+- 🔬 **Research Projects** - Academic research in cybersecurity domains
+- 📚 **Knowledge Sharing** - Writing technical blogs, tutorials, and guides
+- 🎓 **Mentorship** - Helping aspiring security professionals
+
+---
+
+## ☕ Support My Work
+
+If you find my projects, research, or content valuable:
+
+<div align="center">
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/sksdbest)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🔒 "Hack The Planet Responsibly" 🔒
+
+![Footer Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=100&section=footer&text=Thanks%20for%20Visiting!&fontSize=20&fontColor=ffffff&animation=twinkling)
+
+**© 2024 Shubham Kumar Sahu | Cybersecurity Consultant & Researcher**
+
+![Visitor Count](https://profile-counter.glitch.me/sksdbest/count.svg)
+
+</div>
