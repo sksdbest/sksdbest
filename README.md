@@ -1,3 +1,6 @@
+Here's the complete code without the markdown code block wrapper. Just copy and paste this directly into your README.md file:
+
+```
 <div align="center">
 
 # 🛡️ Shubham Kumar Sahu
@@ -328,4 +331,6 @@ If you find my projects, research, or content valuable:
 ![Visitor Count](https://profile-counter.glitch.me/sksdbest/count.svg)
 
 </div>
+```
 
+Copy everything from `<div align="center">` to the final `</div>` and paste it directly into your GitHub README.md file. It will render perfectly!
